@@ -15,7 +15,7 @@ Pour assurer la construction d'un projet, Maven propose notamment de prendre en 
 * Le déploiement
 * ... et de très nombreuses autres tâches requises lors d'un build
 
-  <h3>Gestion des dépendances<h3>
+  <h3>Gestion des dépendances</h3>
 
   Maven permet de gérer les dépendances d'un projet en configurant le fichier pom.xml.
 
