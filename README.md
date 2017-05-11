@@ -14,7 +14,7 @@ la classe mère car se sont tous des animaux.<p>
 
 <h2> L'encapsulation </h2>
  <p>L'encapsulation réuni sous la même entité les données et les moyens de les gérer, à savoir les champs et les méthodes. 
- Il permet donc de masquer au dévleoppeur un certain nombre de champs et méthodes tout en laissant visibles d'autres champs et méthodes.
+ Il permet donc de masquer au développeur un certain nombre de champs et méthodes tout en laissant visibles d'autres champs et méthodes.
 Pour conclure, l'encapsulation permet de garder une cohérence dans la gestion de l'objet, tout en assurant l'intégrité des données qui ne pourront être
 accédées qu'au travers des méthodes.</p>
 
